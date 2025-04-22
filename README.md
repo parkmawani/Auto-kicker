@@ -12,12 +12,12 @@
 ## 설치 방법
 
 ### 1. Python 및 필수 라이브러리 설치
-이 프로젝트는 Python 3.8 이상과 `discord.py` 라이브러리를 필요로 합니다.
+이 프로젝트는 Python 3.8 이상과 `discord` 라이브러리를 필요로 합니다.
 
 - Python 설치: [Python 공식 사이트](https://www.python.org/)에서 다운로드하세요.
 - 라이브러리 설치:
   ```bash
-  pip install discord.py
+  pip install discord
   ```
 
 ### 2. 디스코드 봇 생성
