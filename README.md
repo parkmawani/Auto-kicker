@@ -28,7 +28,7 @@
 ### 3. 코드 다운로드 및 설정
 1. 이 저장소를 클론하거나 ZIP 파일로 다운로드하세요:
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY_NAME.git
+   git clone https://github.com/parkmawani/Auto-kicker
    ```
 2. 코드 파일을 열고 `YOUR_BOT_TOKEN` 부분에 디스코드 봇 토큰을 입력하세요.
 
@@ -80,7 +80,7 @@ client.run("YOUR_BOT_TOKEN")  # 봇 토큰 입력
 
 ## 기여
 
-버그 제보나 기능 제안은 [Issues](https://github.com/USERNAME/REPOSITORY_NAME/issues) 탭을 통해 가능합니다. Pull Request도 환영합니다!
+버그 제보나 기능 제안은 [Issues](https://github.com/parkmawani/Auto-kicker/issues) 탭을 통해 가능합니다. Pull Request도 환영합니다!
 
 ---
 
